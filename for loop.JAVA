@@ -14,4 +14,4 @@ public class upto_10th_even_numbers
         
         num = num +2; //2+2=4.........4+2=6
     }
-    //while loop  
+ 
