@@ -8,4 +8,4 @@ public class upto_10th_even_numbers
             i++;
             a = a + 2;
     }
-        //do..while
+      
